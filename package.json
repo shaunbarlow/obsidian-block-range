@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-block-range",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Wikilink-style range links and embeds spanning multiple block references.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
@@ -21,7 +21,7 @@
 		"globals": "^17.6.0",
 		"jiti": "^2.6.1",
 		"obsidian": "latest",
-		"typescript": "^5.8.3",
+		"typescript": "^5.9.3",
 		"typescript-eslint": "^8.59.1"
 	}
 }
